@@ -1,0 +1,81 @@
+I. Adding an item to the cart
+1. Open a Chrome browser.
+2. In the search field of browser type https://www.amazon.com/ --> click Enter.
+3. In the search field of Amazon type Monster Jam, Official El Toro Loco Remote Control Monster Truck --> click Enter.
+4. Click on the item with a name " Monster Jam, Official El Toro Loco Remote Control Monster Truck.
+5. Click on the button Add to Cart.
+6. Click on the icon Cart on the upper right side of the screen.
+
+Expected result: Shopping cart shows and includes your selected item.
+
+II. Delete the item from the cart:
+Preconditions:
+1. Open a Chrome browser.
+2. In the search field of browser type https://www.amazon.com/ --> click Enter.
+3. In the search field of Amazon type Monster Jam, Official El Toro Loco Remote Control Monster Truck --> click Enter.
+4. Click on the item with a name Monster Jam, Official El Toro Loco Remote Control Monster Truck .
+5. Click on the button Add to Cart.
+6. Click on the icon Cart on the upper right side of the screen.
+Delete:
+1. Click Delete button next to the added item.
+
+Expected result: the item is deleted.
+The Message "Monster Jam, Official El Toro Loco Remote Control Monster Truck,... was removed from Shopping Cart." is shown on the screen.
+
+III. View all Best Sellers puzzles in Toys & Games department:
+Preconditions:
+1. Open a Chrome browser.
+2. In the search field of browser type https://www.amazon.com/ --> click Enter.
+Find:
+1. Click menu All in the upper left side of the screen.
+2. Click on Best Sellers field
+3. Click on Toys & Games field field.
+4. Click on Puzzles.
+5. Click on Next Page on the Puzzles screen.
+
+Expected result: all Best Sellers puzzles are shown to view.
+
+IV. Adding an address on the site Amazon:
+Preconditions:
+1. Open a Chrome browser.
+2. In the search field of browser type https://www.amazon.com/ --> click Enter.
+Adding address:
+1. Click on the location button upper left side of the screen.
+2. Enter 37777 on the Choose your location pop-up. Click Apply button. Click Done button.
+
+Expected result: Deliver to Louisville 37777 is seen on the left upper side next to the location button.
+
+V. Changing language of the site:
+Preconditions:
+1. Open a Chrome browser.
+2. In the search field of browser type https://www.amazon.com/ --> click Enter.
+Changing:
+1. Click on the Flag icon.
+2. Select ES radio button in the dropdown.
+3. Click on the Guardar button.
+
+Expected result: the name of the Cart is in Spanish: Carrito.
+Post-conditions:
+1. Click on the Flag icon.
+2. Select EN radio button in the dropdown.
+3. Click on the Save Changes button.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
